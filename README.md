@@ -78,23 +78,6 @@ target/CompressorDecompressor-1.0-SNAPSHOT.jar
 ```
 
 ---
-
-## 📸 GUI Preview  
-
-
----
-
-## 🏁 Future Enhancements (Optional)
-
-| Feature | Status | Upgrade Idea |
-|--------|--------|--------------|
-| Batch compression | ❌ | Multi-select support |
-| Progress bar | ❌ | Real-time compression progress |
-| Drag & Drop UI | ❌ | Modern UX upgrade |
-| Build exe app | ❌ | Convert to installer |
-
----
-
 ## 💡 Summary
 
 Simple, lightweight desktop compressor with UI + dual compression algorithms  
